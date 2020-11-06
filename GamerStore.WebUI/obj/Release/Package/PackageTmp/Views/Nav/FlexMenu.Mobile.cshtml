@@ -1,0 +1,29 @@
+﻿@model IEnumerable<string>
+
+@*added  the action line below to create home button in mobile view but it is not allinging with the list of categories*@
+
+
+@Html.ActionLink("Home", "List", "Product", null, new { @class = "btn btn-default btn-sm" })
+
+<div data-role="navbar">
+    <ul>
+        @foreach (var link in Model)
+        {
+            <li>
+                @Html.RouteLink(link, new
+                {
+                   controller = "Product",
+                   action = "List",
+                   category = link,
+                   page = 1
+               }, new
+                {
+                   data_transition = "fade",
+                   @class = (link == ViewBag.SelectedCategory
+                       ? "ui-btn-active" : null)
+               })
+            </li>
+        }
+    </ul>
+</div>
+

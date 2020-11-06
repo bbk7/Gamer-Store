@@ -1,0 +1,17 @@
+X-Sender: gamerstore@example.com
+X-Receiver: orders@example.com
+MIME-Version: 1.0
+From: gamerstore@example.com
+To: orders@example.com
+Date: 27 Jun 2020 01:59:51 +0100
+Subject: New order submitted!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+A new order has been submitted=0D=0A---=0D=0AItems:=0D=0A1 x SONY=
+ PlayStation 4 Pro (subtotal: ?349.001 x ASUS ROG STRIX G15 15.6"=
+ Gaming Laptop (subtotal: ?1,349.491 x ACER Predator Helios 300 1=
+7.3? Gaming Laptop (subtotal: ?1,349.97Total order value: ?3,048.=
+46---=0D=0AShip to:=0D=0Aadsf=0D=0A123 konoha=0D=0Aasdfsadf=0D=0A=
+=0D=0Aasdf=0D=0Adsaf=0D=0Assdf=0D=0A1rdsf=0D=0A---=0D=0AGift wrap=
+: Yes

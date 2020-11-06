@@ -1,0 +1,15 @@
+X-Sender: gamerstore@example.com
+X-Receiver: orders@example.com
+MIME-Version: 1.0
+From: gamerstore@example.com
+To: orders@example.com
+Date: 24 Jun 2020 01:29:41 +0100
+Subject: New order submitted!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+A new order has been submitted=0D=0A---=0D=0AItems:=0D=0A1 x SONY=
+ PlayStation 4=0D=0A (subtotal: ?249.001 x MicroSoft Xbox One S=0D=0A=
+ (subtotal: ?249.00Total order value: ?498.00---=0D=0AShip to:=0D=0A=
+adsf=0D=0A123 konoha=0D=0Aasdfsadf=0D=0A=0D=0Aasdf=0D=0Adsaf=0D=0A=
+ssdf=0D=0A1rdsf=0D=0A---=0D=0AGift wrap: Yes

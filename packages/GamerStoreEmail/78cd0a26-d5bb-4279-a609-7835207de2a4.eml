@@ -1,0 +1,14 @@
+X-Sender: gamerstore@example.com
+X-Receiver: orders@example.com
+MIME-Version: 1.0
+From: gamerstore@example.com
+To: orders@example.com
+Date: 7 Aug 2020 17:53:05 +0100
+Subject: New order submitted!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+A new order has been submitted=0D=0A---=0D=0AItems:=0D=0A1 x SONY=
+ PlayStation 4 Pro (subtotal: ?349.00Total order value: ?349.00--=
+-=0D=0AShip to:=0D=0Abibek=0D=0Asaf=0D=0Aasd=0D=0Alk=0D=0Alondon=0D=0A=
+sdaf=0D=0Aad=0D=0A32r=0D=0A---=0D=0AGift wrap: Yes
